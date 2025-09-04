@@ -1,0 +1,1 @@
+It is a vector space, that is equipped with a complex [[inner product]] and is complete. To note is that it is the general case of the Euclidian space
