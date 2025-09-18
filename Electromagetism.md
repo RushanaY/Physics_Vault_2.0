@@ -74,8 +74,9 @@ using [[Bianachi identity]] we can show that the Maxwell equations hold
 # [[Greens function]] 
 In electrostatics that's how we use that:
 We take the operator/function $$(Gf)(x) = (G * f)(x) = \int G(x-y)f(y) dy = \int G(x,y)f(y) dy$$
-I guess this greens function is an analogous of the Coulomb force. Which is why can show that the force gets weaker with the distance by showing $\triangle G (-, \vec r' )|_{\mathbb{R^3} \space  without \space \vec r'} =0$      where the greens function is defined as $$G(\vec r, \vec r') = - \frac{1}{4 \pi |\vec r - \vec r'|}$$It is the generalised version of the couloumb force of a singe charge. It does have some tendencies that remind me of **mirror charges**. To sum up the LibreTextt article: THe potential fo a singel point charge is simple, but adding on the superposition principle and looking at a spread of charges we are better of using the Greens function. This function workds for unlimited space, but uing the condition we bound it to last till the next conductor. For the whole thing we using the theorem $$\int_V (f \triangledown^2 g - g \triangledown^2 f) d^3 r = \int_S *f \triangledown g - g \triangledown f)d^2r$$ which is some form of gauss or stokes law.  So we can either look at a volume filled with charges, or just the charges on the surface of this sphere. 
-Another quation is explained by using the **Possion equation**. That's the one that includes the delta function. 
+I guess this greens function is an analogous of the Coulomb force. Which is why can show that the force gets weaker with the distance by showing $\triangle G (-, \vec r' )|_{\mathbb{R^3} \space  without \space \vec r'} =0$      where the greens function is defined as $$G(\vec r, \vec r') = - \frac{1}{4 \pi |\vec r - \vec r'|}$$It is the generalised version of the coulomb force of a singe charge. It does have some tendencies that remind me of **mirror charges**. To sum up the LibreText article: The potential for a single point charge is simple, but adding on the superposition principle and looking at a spread of charges we are better of using the Greens function. This function works for unlimited space, but using the condition we bound it to last till the next conductor. For the whole thing we using the theorem $$\int_V (f \triangledown^2 g - g \triangledown^2 f) d^3 r = \int_S *f \triangledown g - g \triangledown f)d^2r$$ which is some form of gauss or stokes law.  So we can either look at a volume filled with charges, or just the charges on the surface of this sphere. 
+Another equation is explained by using the **Poisson equation**. That's the one that includes the delta function. 
+$\to$ still unsure about this text
 
 # Gauss ray
 General form:
@@ -85,13 +86,13 @@ useful rewritings: $\omega^2(z) = \omega_0^2 (1 + (\frac{z}{z_R})^2)$, $z_R = \f
 superposition principle is used 
 If the [[Helmholtz equation]] is full filled, then we  have an applied case for waves. 
 
-# surface integrals in electromagentism 
-- how to do maps = Karte for a surface we are looking at 
-	- The easiest way to do it, is to choose the right coordinates. Like cylindrical for a cylinder. A cylinder is build up from three surfaces, being the top, bottom and the surface around. Each of the surfaces can be expressed with two coordintas, because a surface is two dimensional, and another coordinate that will remain here constant. It is like saying that there is a surface at a particular height, which will remain unchanged. 
-- find general expression for the surface integral
-	- The whole surface is the sum of all the smaller surfaces, which are defined by the maps from before. Here it is to be noted, that when integrating over this surface we are adding up small areas dS, that are more presicely written as $\hat n dS$. Where the n denotes the normal vector to the surface. 
-	- The general procedure to find a correct surface integral is 
-- with a given field calculate the flux density
-- integrate the flux density to see how much "field" there is 
+# surface integrals in electromagnetism 
+The first step is to determine all the surfaces we will have to account for. They are being expressed in maps (Karte), which will create the boundaries of the integrals. It is smart to choose a good coordinate system to have less complicated calculations. 
+The whole surface is the sum of all the smaller surfaces, which are defined by the maps from before. Here it is to be noted, that when integrating over this surface we are adding up small areas dS, that are more precisely written as $\hat n dS$. Where the n denotes the normal vector to the surface. 
+The important aspect of the surface integral is to get the $dS$ correctly. To remember is, that it is a small surface area, which we want to express in the according coordinates. Generally, in Cartesian coordinates it would be $dS = |dx \times dy| dx dy$ . Instead of $x$ and $y$ we put our according coordinates.
+As the next step the normal vector $\hat n$ is determined. It can be done either by a quick sketch or by using a formula of the general form :
+$$\hat n = \triangledown F(x,y,z) = \frac{\partial \vec r}{\partial x} \times \frac{\partial \vec r}{\partial y}$$
+Putting it together into $$\int_S F\cdot \hat n dS $$
+In the case where we have a specific field that is passing through the surface we can just take the part that is actually participating in the flux. Instead of $\vec E$ we can specifically take $E_0 cos \theta$ if needed. 
 
-Surface integral in general: $\int \int_S f(x,y,z)dS$ . The flux is a type of a surface integral, where the flowing thing is the function we are integrating over and the boundaries of the integral are denoting the surface. Also we assume that the area S has an orientation. This way you can differenciate between outside and inside. although if it is enclosed, this shouldn't be problem. But in an enclosed surface the normal pointing outwards will change with every little "tile of surface". This is why the cylindircal one has an angle dependancy. In order to get the flux, we also need the normal and the angle of the flux through the surface, as we only count the perpendicular component of the flux. -> $\int_S (F \cdot \hat n) dS$  n 
+ 
