@@ -1,0 +1,1 @@
+$$E = k_B T$$ with $k_B$ being the [[Bolzmann constant]] 
