@@ -1,0 +1,6 @@
+- made up from [[proton]]s and [[neutron]]s  
+- is very small (takes very small part of the atomic volume) and heavy (almost all mass of the atom is inside the nucleus)
+- it is basically a electromagnetic trap for electrons -> this allows to use the approximation of a [[potential well]] to calculate any kind of movement 
+- is usually statical 
+- has the size: ![[atom nucleus radius]]
+- has the mass ![[nucleus mass]]

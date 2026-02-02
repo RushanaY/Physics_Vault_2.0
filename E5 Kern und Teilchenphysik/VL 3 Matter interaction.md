@@ -1,0 +1,22 @@
+- Dosimetrie 
+	- aktivitat measured in a [[Berquerel]]
+	- Energie dosis $$D: = \frac{dW}{\rho dV}$$
+		- absorbed Matter to density
+	- Equivalenc dosis measured in a [[Sievert]]
+	- natural Strahulng 
+	- artificial Strahlung 
+	- interaction of a heavy, charged paritcle with matter 
+		- type: electromagnetic - >photonen austausch
+		- other different types 
+	- polarization in the medim
+		- something happens only if $v > \frac{c}{n}$ , then polarisation with the angle $\cos \theta_C = \frac{1}{\beta n}$ 
+	- ionization 
+		- energy lost because the particle gets ionosed when going though matter 
+		- maximal kinetic energy after that: $$T_{max} = \frac{2m_e c^2 \beta^2 \gamma^2}{1 + 2 \gamma \frac{m_e}{M} + |\frac{m_e}{\mu}|^2}$$
+		- mean energy loss $$- \langle \frac{dE}{dx} \rangle = k \cdot z^2 \cdot \rho \frac{Z}{A \cdot u} \cdot \frac{1}{\beta^2} [\frac{1}{2} \ln)(\frac{2 m_e c^2 \beta^2 \gamma^2 T_{max}}{I^2}) - \beta^2 - \frac{\delta (\beta \gamma)}{2}]$$
+		- [[Bete Bloch curve]] shows the relation of the Bremsvermogen to momentum -> point of ionisation is minimum 
+	- [[Bragg peak]] in the diagramm of energy loss to penetration depth is at $R\sim T^{1.75}$ 
+	- [[Landau distribution]] - the distribution around the most probable energy loss in the bethe bloch curve 
+- Bremsstrahlung!! - anothe reason for energy loss 
+- photon interaction with matter -> photo elektrischer effekt , Compton effect 
+- 

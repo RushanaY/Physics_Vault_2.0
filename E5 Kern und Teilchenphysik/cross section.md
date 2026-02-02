@@ -1,0 +1,1 @@
+also called the WIrkungsquerschnitt $$\sigma = \frac{\dot{N}}{\phi_S \cdot N_T}$$

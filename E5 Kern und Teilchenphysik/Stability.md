@@ -1,0 +1,62 @@
+- Bequerell, Mqviz and Pieree -> sponatanious nucleus transitions => radiactivity 
+- types of radioaktivity
+	- alpha 
+	- betta minus 
+	- betta plus 
+	- elektroneneinfacng
+	- gamma 
+- more types? 
+	- neutronen emission 
+	- proton emissin
+	- cluster radiactivity 
+	- spontanious splitting 
+- see the map of the tupes with where ehat is 
+
+- number of splitted nuclei is described by the Zerfallsgesetz $N(t) = N_0 e^{- \lambda t}, N_0 = N(t=0)$ 
+- mittlere Lebensdauer $\tau= \frac{1}{\lambda}$ 
+- Halbwertzeit $t_{1/2}= \frac{\ln 2}{\lambda}= \tau \ln 2$ 
+- partielle Zerfa;;breite $$\lambda = \sum_{k=1}^n \lambda_K$$
+- branching ratio $BR_K=\frac{\lambda_K}{\lambda}$ 
+- Activity in unit barrel $$A=- \frac{dN}{dt}=\lambda N = \lambda \frac{mN_A}{M}$$
+- Zerfallreihe $$N_T(t)= \frac{\lambda_MN_M(0)}{\lambda_T - \lambda_M}(e^{- \lambda_M t}-e^{- \lambda_T t})$$
+
+Stability criterium:
+-  We need for the spontaniuous decay $$M(A,Z) > M(A-a, Z-a) +M_Y$$so that we have for the Q value $$Q = E_{kin} (X') + E_{kin}(Y) = [M(A,Z) - M(A-a, Z-z) - M_Y]c^2 >0$$
+	- for alpha decay $$E_{kin, \alpha} = Q \frac{M(A-9, Z -2)}{m_{\alpha} + M(A-Y, Z -2)}$$
+	- for beta zerfall 
+		- Weisäcker Formel
+		- different patterns of the decay for stable nuclei 
+- Nuklidkarte 
+	- beta decay 
+		- needed condition 
+			- $Q(\beta^-) >0$
+			- $Q(\beta^+) +0$
+			- $Q(EC) > 0$ cal integrati
+		- free neutron decays 
+		- free proton doesn't decay 
+	- Termschema - we remmeber that there are electrons in the hull 
+		- energy of beta plus and minus has a continuus spectrum with max Energy $E_{kin, max} = Q \frac{M_Y}{M_Y + m_e}$ which can be approximated to $Q (1 - \frac{m_e}{M_Y}) =: E_0$
+		- neutrinos shown in the Reins Cowan experiment and described in the Fermi Theory 
+	- Alpha decay -> particle of the decay are mono energetic and therefore it is a 2 body decay 
+		- Uran rasium
+		- Aktinium 
+		- Thorium 
+		- Neptunium 
+	- Gamow modell 
+		- shows the quantum tunneling effect, whre the $\lambda$ from before has allso a multuiplied factor of tunneling -> reminder of potpot 
+		- gives the Gamow factor for the tunnel effect coefficient $$T_{\alpha} = e^{-G}$$$$G = \frac{2 \sqrt{2m}}{\hbar} \int_R^{R'} \sqrt{\frac{Z_T Z_{\alpha} e^2}{4 \pi \epsilon_0 r}-E}dr$$
+		- for $R' >> R$ $$G = \pi \alpha Z_T Z_{\alpha} \sqrt{\frac{2me^2}{E_{\alpha}}} \sim \frac{1}{\sqrt{E_{\alpha}}}$$
+		- which means for Halbwertszeit $$\log t_{1/2} \sim \frac{1}{\sqrt{E_{\alpha}}}$$
+- Kernspaltung under the condition that $A > 87.5$
+	- diagramm 
+	- also show with a sphere that will give the energy over the surface 
+	- coloumb energy 
+	- decay parameter 
+	- spontanious decay
+	- induced decay 
+- how to get energy from decay and how much 
+- Kernfusion 
+- gamma decays  - monoenergetische Phtotonstrahlugn 
+	- parity 
+	- angular momentum 
+	- Multimoden 
