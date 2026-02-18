@@ -1,0 +1,1 @@
+$P \propto T$ for constant N and V
