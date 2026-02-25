@@ -11,7 +11,7 @@ Doing the derivation of energy with respect of time, we get terms $E \frac{\part
 
 
 # Riemann Siberstein vector
-Instead of writing both E and B fields they can be connected together into the [[Riemann Silberstein vector]].  It is a complex vector that allows to make the Maxwell equations shorter
+Instead of writing both E and B fields they can be connected together into the [[Rechenmethoden/Riemann Silberstein vector]].  It is a complex vector that allows to make the Maxwell equations shorter
 
 
 # Maxwell equation

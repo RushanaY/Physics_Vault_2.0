@@ -10,5 +10,24 @@ If we don't want a specific element to be in the set it is shown in the **differ
 Set can be organized by using [[equivalence class]]es by writing $$a \sim b$$This means that two sets have a relationship that is characterized by a criterium. For example Vanessa and Kate are equivalent under the criterium of being both female.  
 
 # Notation
-Just looking at the notation of the set, one can determine what kind of elements will be there and under what condition. General notation is:
+Just looking at the notation of the set, one can determine what kind of elements will be there and under what condition. General notation from [[Cantor's set theory]] is:
 $$set \space name = \{elements| rule \space or \space condition\}$$
+
+# mathematically correct 
+
+## notation
+- [[empty set]] $$\emptyset: = \{\}$$
+- [[singleton]] $$S : = \{x\}$$
+- [[doubleton]] $$D:= \{x,y\}$$
+- [[roster notation with ellipsis]] $$O : = \{o_1, o_2, o_3, ..., o_n\}$$
+## actions 
+- $x \in M$ 
+- $x \notin M := \neg (x \in M)$
+
+- [[axiom of extensionality]] $$N = M : = \forall x: (x \in M \Leftrightarrow x \in N)$$$$N \neq M : = \neg (N=M)$$
+- [[subset]]s 
+- [[set operations]] 
+- just a fun thing: [[restricted principle of comprehension]] -> a set of elements has 
+- [[schema of replacement axiom]]
+	- in a set there must be at least one element, that fulfills the condition of the set bascially 
+

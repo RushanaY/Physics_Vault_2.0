@@ -1,9 +1,1 @@
-**Definition**: 
-- A real or complex [[vector space]] with an [[T0 and T3 mix/Physics-Vault-1.0-main/inner product]]
-
-
-**Related to**: 
-- is the general case of the [[Euclidian space]] 
-
-**Properties**:
-- Mesaurement of **lengths** and **angles** 
+It is a vector space, that is equipped with a complex [[Rechenmethoden/inner product]] and is [[complete]]. To note is that it is the general case of the Euclidian space

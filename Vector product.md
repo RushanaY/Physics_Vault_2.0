@@ -17,7 +17,7 @@ This **triple product** can also be denoted as a [[determinant]] $\det(\vec u, \
 	- is not associative $$\vec u \times (\vec v \times \vec w ) \neq (\vec u \times \vec v ) \times \vec w$$
 
 	The vector $\vec v \times \vec w$ is not in the same $\mathbb{E}^3$ as $\vec v$ and $\vec w$ and is therefore a **pseudo vector** or **axial vector** . What is important to understand is, that the vectors we used are made up of the three components of the 3 dimensional Euclidian space, but it is not a vector space. Even if it looks like a vector and behaves like a vector, it is not officially part of the vector space. However the computed vector from the vector product is in the vector space. 
-	While the difference feels only formal, it does become important once we start working with [[tensor]]s. The vector from the vector product is in the vector space that we can call the "covariant tensor of first degree"
+	While the difference feels only formal, it does become important once we start working with [[Tensor]]s. The vector from the vector product is in the vector space that we can call the "covariant tensor of first degree"
 
 # Application
 It is a key component in the [[angular momentum]] 
