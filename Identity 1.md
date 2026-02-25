@@ -1,0 +1,1 @@
+$$\triangledown \cdot (A \times B) = (\triangledown \times A) \cdot B - A \cdot (\triangledown \times B)$$ 

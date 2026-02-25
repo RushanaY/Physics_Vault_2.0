@@ -1,0 +1,1 @@
+$$\hat d = - e  \hat r$$ e - electric charge

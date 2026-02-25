@@ -1,0 +1,2 @@
+
+$$\begin{pmatrix} tc \\ x \\ y \\ z \end{pmatrix} = \begin{pmatrix} x^0 \\ x^1 \\ x^2 \\ x^3 \end{pmatrix} = \underline x \to \underline x' = \Lambda \underline x , \space (x')^{\alpha'} = \Lambda_{\alpha}^{\alpha'} x^{\alpha}, \space \alpha, \alpha' \in \{0,1,2,3\}$$

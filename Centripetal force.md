@@ -1,0 +1,1 @@
+$$F_{Centripetal} = \frac{mv^2}{R}$$

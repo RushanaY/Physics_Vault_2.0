@@ -1,0 +1,1 @@
+$$dx^2 + dy^2 + dz^2 = dr^2 + r^2 (d \theta ^2 + sin^2(\theta) d\phi^2)$$

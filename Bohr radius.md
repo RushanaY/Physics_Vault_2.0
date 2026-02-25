@@ -1,0 +1,1 @@
+$$a_0 = \frac{4 \pi \epsilon_0 \hbar^2}{e^2 m} = \frac{\hbar}{m_e c_0 \alpha}=5.291 \space 772 \space 106 \space 7 \times 10^{-11}m$$

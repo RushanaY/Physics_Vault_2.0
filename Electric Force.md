@@ -1,0 +1,1 @@
+$$F_{el} = \frac{Z e^2}{4 \pi \epsilon_0 R^2}$$

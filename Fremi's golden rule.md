@@ -1,0 +1,1 @@
+$$\Gamma = \frac{d P(t)} {dt} = \frac{\pi}{2 \hbar^2} \rho(\omega_L) |V(\omega_L)|^2$$ 

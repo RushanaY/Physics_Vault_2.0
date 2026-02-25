@@ -1,0 +1,1 @@
+$$B(r) = \frac{\mu_0}{4 \pi} \int_C \frac{I \space d \vec l \times \vec r '}{|\vec r ' |^3}$$

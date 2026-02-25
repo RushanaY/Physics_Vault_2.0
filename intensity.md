@@ -1,0 +1,1 @@
+special intencity somethimes a synonym for [[spectral radiance]]
