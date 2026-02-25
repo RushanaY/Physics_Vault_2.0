@@ -1,0 +1,1 @@
+$$m_{nucleus} = 1 - 200 \cdot m_p$$

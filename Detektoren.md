@@ -1,0 +1,29 @@
+- what is looked at: 
+	- number of particles 
+	- time 
+	- place
+	- momentum
+	- energy
+	- identity (like the mean value, vector )
+- what can be registerd 
+	- Ionisation -> measure the charge 
+	- anregung -> szinlillations licht 
+	- Cerenkov strahlung ->light 
+- **Gas filled detectors** 
+	- the signal from ionisaation has to amplified 
+	- pronsiple 
+		- Geiger Muller 
+			- ionasation kammer -> collects the charges 
+			- proportional bereich -> amplification of the signal 
+			- auslosebereich 
+- a way to determine the position and momentum with a gas detector 
+	- having anodes placed closely to each other -> helps to determine the position roughtly
+	- calculating from the time a charge touches the anodes we get the  velocty and therefore the position very precicely 
+- **Spurdetektor** 
+	- the trace of the particle gets reconstructed 
+	- use the Glucksstern Formel 
+- **Semiconductor detector**
+	- measure the ionasation 
+		- DOtierung 
+		- ph transition in a diode 
+		- 

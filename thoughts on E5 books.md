@@ -1,0 +1,27 @@
+Povh. Teilchen und Kerne
+- aufbau: Kern -> Nukleon -> Quark /Leptonen (Elektron und Neutrino), beide sind Fermionen mit Spin 1/2, sind elementr weil keine angeregten Zst. gefundne wurden 
+- quarks in streuuexperimenten erforscht
+- fundamentale WW mit Austauschteilchen:
+	- Gravitation (none)
+	- Electricity ()
+	- magnetism 
+	- starke Kraft *(Quarks zu Protonen)* (Gluonen)
+	- schwache Kraft *(zwischen Nukleonen)*(Bosonen)
+		- weil austauschteilchen so klein sind, unterliegen sie der Heisenbergschen Unscharferelation -> teilchen existieren für sehr kurze Zeit => haben kleine Reichweite
+- Experimente
+	- streeung
+	- spektroskopie 
+		- bestimmung der zerfallsprodukte angeregter Zustande (deren Eigenschaften, und WW)
+	- Detektoren
+		- WW von geladenem Teilchen mit Gas/Flussigkeit/kristallinen und amorphen Festkorpern 
+		- nachweis von Teilchen oder auch sekundar Teilchen 
+		- Types
+			- Szintillator
+			- Gaszahler (bsp. impuls bei MF feldern)
+			- Halbleiterzahler
+			- Cerenkov- und Ubergangsstrahlungszahler -> Teilchenidintifikation
+			- Kaloriemeter - >Gesamtenergie 
+- Einheiten
+	- meist: Fentometer und eV
+	- Gauss system: $4 \pi\epsilon_0 1 \Rightarrow \alpha = e^2$ 
+	- Heavyside Lorenz System: $\epsilon_0 =1 \Rightarrow \alpha = e^2/4 \pi$ 
