@@ -1,0 +1,3 @@
+- small dielectric force => small amount of shielding => very bound electrons 
+- organic SD 
+-
