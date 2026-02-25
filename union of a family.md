@@ -1,0 +1,2 @@
+$$\bigcup_{i \in I} M_i : = \{ x| \exists i \in I ; x \in M_i \}$$
+with the special case of there not being any elements in the intersecion, which makes an [[disjunction|disjoint]] family of sets, where we write it as $$\bigcup_{i \in I}^{\cdot} M_i$$

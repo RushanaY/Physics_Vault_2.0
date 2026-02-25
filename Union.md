@@ -1,0 +1,1 @@
+$$M \cup N : = \{ x \in \Omega| x \in M \lor x \in N\}$$

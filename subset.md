@@ -1,0 +1,1 @@
+$$M \subseteq N : = \forall x : (x \in M \Rightarrow x \in N)$$ $$M \subset N := (M \subseteq N) \land (M \neq N)$$ 

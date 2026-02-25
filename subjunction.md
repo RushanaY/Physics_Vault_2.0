@@ -1,0 +1,1 @@
+"if a, then b" $$a \rightarrow b$$

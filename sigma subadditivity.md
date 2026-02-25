@@ -1,0 +1,2 @@
+==it is there to make the volume sensible. If I split my object in many parts, measure their volume and then put it all back together, I would expect to end up at max with the same object== 
+$$\mu (\bigcup_{n \in \mathbb{N}} A_n) \leq \sum_{n=1}^{\infty} \mu  (A_n)$$
