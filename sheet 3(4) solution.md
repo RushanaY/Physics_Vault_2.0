@@ -1,0 +1,1 @@
+![[sheet 3(4) solution 2026-02-16 23.36.29.excalidraw]]

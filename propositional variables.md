@@ -1,0 +1,1 @@
+just as [[proposition]]s those are statemets that can be assigned a truth value to. But they are placeholders and are written using small letters 

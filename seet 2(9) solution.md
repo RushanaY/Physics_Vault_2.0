@@ -1,0 +1,1 @@
+![[seet 2(9) solution 2026-02-16 23.29.57.excalidraw]]

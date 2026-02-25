@@ -1,0 +1,10 @@
+- [[proposition]] is an expression or a statement, that we can assign a truth value to
+- principles
+	- well formedness 
+	- extensibility -/ truth value depends only on its components propositioins (you can determine if it;s tue oif false only from looking at the given statement)
+-  best repesented in simple [[truth table]]s , where [[propositional variables]] are connected with [[logical connective]]s 
+- Ex.3.
+	- because the logical connections cover all possible actions we might want to take. Any kind of idea can be expressed by making combination of the limited connections 
+	- the case of both statemens being true true and false false is clear. If it doesn't rain, the ground can still be wet from other reasons. But if it does rain, the uncoverd ground will always be wet. Which is why the combination of true false is the only one that is false and doesn't hold 
+- [[principle of recursion]] to define the [[alphabet]] to get the  **language
+- [[semantic equivalence]] $\phi \equiv \psi$ if the truth values of both formulas are the same in every case 

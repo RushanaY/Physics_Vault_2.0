@@ -1,0 +1,1 @@
+We have $\psi, \phi$ being [[A formular]] and are equivalent if all of their truth values are the same $$\psi \equiv \phi$$
